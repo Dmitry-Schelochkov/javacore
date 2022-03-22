@@ -61,6 +61,5 @@ public class Calculate {
         }
         return result;
 
-
     }
 }
