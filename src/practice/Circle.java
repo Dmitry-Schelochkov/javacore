@@ -6,7 +6,7 @@ public class Circle {
     }
 
     public static void main(String[] args) {
-        double s = Circle.square(3.14, 2);
+        double s = Circle.square(3.14, 5);
                 System.out.println(s);
 
     }
